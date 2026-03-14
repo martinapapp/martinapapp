@@ -1,6 +1,6 @@
 <div align="center">
 
-# Papp Anita Martina
+# Anita Martina Papp
 ### Fullstack Developer · Győr, Hungary · Open to Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinapapp)
