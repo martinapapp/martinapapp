@@ -16,7 +16,7 @@
 
 I'm a career changer with project experiences across the JavaScript ecosystem. Currently pursuing a **Software Engineering BSc** at Széchenyi István University (starting fall 2026) while actively building fullstack projects.
 
-The skills I'm most confident with is pattern-recognising, quickly picking up new concepts and integrating them. What draws me to development is its depth — there's always another layer to explore, and that's exactly the kind of environment I thrive in.
+The skills I'm most confident with is pattern-recognising, quickly picking up new concepts and integrating them. What draws me to development is its depth, there's always another layer to explore, and that's exactly the kind of environment I thrive in.
 
 **Currently seeking a first junior role** where I can contribute to a real product, grow within a team, and keep pushing forward.
 
@@ -86,7 +86,7 @@ The skills I'm most confident with is pattern-recognising, quickly picking up ne
 
 ## ⚡ Fun Fact
 
-Outside of code:  Puzzles, visual art, and podcasts about physics and the universe. There's always something new to understand — that's what keeps me going, in both code and life.
+Outside of code:  Puzzles, visual art, and podcasts about physics and the universe. There's always something new to understand, that's what keeps me going, in both code and life.
 
 ---
 
