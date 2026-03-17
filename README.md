@@ -68,7 +68,8 @@ The skills I'm most confident with is pattern-recognising, quickly picking up ne
 ## 🔭 What I'm Up To
 
 - 🚀 Currently working on **Portfolio and deployment**
-- 📚 Currently learning **DSA & CI/CD**
+- 📚 Currently learning **Data Structures and Algorithms**
+- 📖 Currently reading **Andrew Hunt and David Thomas - The Pragmatic Programmer**
 - 🎓 Starting a **Software Engineering BSc** at Széchenyi István University in fall 2026
 - 💼 Open to **junior fullstack / frontend / backend roles**
 
