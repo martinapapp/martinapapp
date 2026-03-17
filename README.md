@@ -12,16 +12,6 @@
 
 ---
 
-## About Me
-
-I'm a career changer with project experiences across the JavaScript ecosystem. Currently pursuing a **Software Engineering BSc** at Széchenyi István University (starting fall 2026) while actively building fullstack projects.
-
-The skills I'm most confident with is pattern-recognising, quickly picking up new concepts and integrating them. What draws me to development is its depth, there's always another layer to explore, and that's exactly the kind of environment I thrive in.
-
-**Currently seeking a first junior role** where I can contribute to a real product, grow within a team, and keep pushing forward.
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
@@ -65,16 +55,6 @@ The skills I'm most confident with is pattern-recognising, quickly picking up ne
 
 ---
 
-## 🔭 What I'm Up To
-
-- 🚀 Currently working on **Portfolio and deployment**
-- 📚 Currently learning **Data Structures and Algorithms**
-- 📖 Currently reading **Andrew Hunt and David Thomas - The Pragmatic Programmer**
-- 🎓 Starting a **Software Engineering BSc** at Széchenyi István University in fall 2026
-- 💼 Open to **junior fullstack / frontend / backend roles**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,9 +65,24 @@ The skills I'm most confident with is pattern-recognising, quickly picking up ne
 
 ---
 
-## ⚡ Fun Fact
+## 🔭 What I'm Up To
 
-Outside of code:  Puzzles, visual art, and podcasts about physics and the universe. There's always something new to understand, that's what keeps me going, in both code and life.
+- 🚀 Currently working on **Portfolio and deployment**
+- 📚 Currently learning **Data Structures and Algorithms**
+- 📖 Currently reading **Andrew Hunt and David Thomas - The Pragmatic Programmer**
+- 🎓 Starting a **Software Engineering BSc** at Széchenyi István University in fall 2026
+- 💼 Open to **junior fullstack / frontend / backend roles**
+- ⚡ Fun Fact **Outside of code:  Puzzles, visual art, and podcasts about physics and the universe.**
+
+---
+
+## About Me
+
+I'm a career changer with built applications across the JavaScript ecosystem. Currently pursuing a **Software Engineering BSc** at Széchenyi István University (starting fall 2026) while actively building fullstack projects.
+
+The skills I'm most confident with is pattern-recognising, quickly picking up new concepts and integrating them. What draws me to development is its depth, there's always another layer to explore, and that's exactly the kind of environment I thrive in.
+
+**Currently seeking a first junior role** where I can contribute to a real product, grow within a team, and keep pushing forward.
 
 ---
 
