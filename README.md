@@ -70,7 +70,6 @@
 - 🚀 Currently working on **Portfolio and deployment**
 - 📚 Currently learning **Data Structures and Algorithms**
 - 📖 Currently reading **Andrew Hunt and David Thomas - The Pragmatic Programmer**
-- 🎓 Starting a **Software Engineering BSc** at Széchenyi István University in fall 2026
 - 💼 Open to **junior fullstack / frontend / backend roles**
 - ⚡ Fun Fact **Outside of code:  Puzzles, visual art, and podcasts about physics and the universe.**
 
