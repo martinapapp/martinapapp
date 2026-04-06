@@ -79,8 +79,6 @@
 
 The skills I'm most confident with is pattern-recognising, quickly picking up new concepts and integrating them. What draws me to development is its depth, there's always another layer to explore, and that's exactly the kind of environment I thrive in.
 
-**Currently seeking a first junior role** where I can contribute in a structured environment and grow within a team.
-
 ---
 
 <div align="center">
