@@ -1,7 +1,7 @@
 <div align="center">
 
 # Anita Martina Papp
-### Fullstack Developer · Győr, Hungary · Open to Remote
+### Fullstack Developer · Győr, Hungary · Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinapapp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://martinapapp.dev)
@@ -67,11 +67,11 @@
 
 ## 🔭 What I'm Up To
 
-- 🚀 Currently working on **Portfolio and deployment**
-- 📚 Currently learning **Data Structures and Algorithms**
+- 🚀 Currently working on **Sharpening my skills with practice**
+- 📚 Currently learning **LeetCode challanges**
 - 📖 Currently reading **Andrew Hunt and David Thomas - The Pragmatic Programmer**
-- 💼 Open to **junior fullstack / frontend / backend roles**
-- ⚡ Fun Fact **Outside of code:  Puzzles, visual art, and podcasts about physics and the universe.**
+- 💼 Open to **junior fullstack / frontend / backend roles / data analyst**
+- ⚡ Fun Fact **Outside of code:  puzzles, visual art, and podcasts about physics and space.**
 
 ---
 
